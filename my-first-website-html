@@ -1,12 +1,14 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-  <title>my first webpage!</title>
-</head>
-<body>
-  <p>hello, world!</p>
-  <p>welcome to my first webpage</p>
+  <head>
+    <title>my first webpage!</title>
+  </head>
+  <body>
+    <h1>My first webpage</h1>
+    <h2>Written with alittle guidance from moringa school</h2>
 
-</body>
+    <p>hello, world!</p>
+    <p>welcome to my first webpage</p>
+  </body>
 </html>
