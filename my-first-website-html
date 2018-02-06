@@ -4,19 +4,21 @@
   <head>
     <title>my first webpage!</title>
   </head>
-  <body>
+  <body></p>check out <a href="http://moringaschool.com/">Moringa School</a>. It's a great place to learn web development skill</p>
     <h1>My first webpage</h1>
-    <h2>Written with alittle guidance from moringa school</h2>
+    <h2>Written with alittle guidance <em>from moringa school</em></h2>
+    <p>here is a link to my <a href="my favorite thing.html">my favorite thing</a>.</p>
+    <img src="image/elephant.jpg" >
 
     <p>hello, world!</p>
-    <p>welcome to my first webpage</p>
+    <p>welcome to my<strong> first webpage</strong>!</p>
 
     <p>Here are some things I am going to learn about coding</p>
     <ol>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-    <li>And alot more</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Javascript</li>
+      <li>And alot more</li>
     </ol>
   </body>
 </html>
