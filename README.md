@@ -18,5 +18,5 @@ Made using HTML, Python an CSS.
 our users are our most priced possesion!! So any ideas to make this experience more fantastic! are welcome.
 ### License
 Copyright (c) 2018
-<img src="images/elephant.jpg">
+![alt text](https://goo.gl/images/Az4MKF)
  **cynedorcas**
